@@ -20,8 +20,8 @@
 #ifndef __STM32MP13XX_UTIL_DDR_CONF_H
 #define __STM32MP13XX_UTIL_DDR_CONF_H
 
-#if defined DDR_TYPE_DDR3_4Gb
-  #include "stm32mp13xx-ddr3-4Gb-template.h"
+#if defined DDR_TYPE_DDR3_2Gb
+  #include "stm32mp13xx-ddr3-2Gb-template.h"
 #elif defined DDR_TYPE_DDR3_8Gb
   #include "stm32mp13xx-ddr3-8Gb-template.h"
 #elif defined DDR_TYPE_LPDDR2_4Gb

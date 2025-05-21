@@ -64,7 +64,7 @@
 									<listOptionValue builtIn="false" value="__LOG_UART_IO_"/>
 									<listOptionValue builtIn="false" value="LOGLEVEL=LOGINFO"/>
 									<listOptionValue builtIn="false" value="DDR_INTERACTIVE"/>
-									<listOptionValue builtIn="false" value="DDR_TYPE_DDR3_4Gb"/>
+									<listOptionValue builtIn="false" value="DDR_TYPE_DDR3_2Gb"/>
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.otherflags.783872952" name="Other flags" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.otherflags" useByScannerDiscovery="true" valueType="stringList">
 									<listOptionValue builtIn="false" value="-Wno-strict-aliasing"/>
